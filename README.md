@@ -22,7 +22,7 @@ yarn dev
 
 ## Resources
 
-* [Changelog](https://www.facebook.com/trantoan.960)
+* [Changelog](https://github.com/RHPTeam/comment_ai_api/blob/master/CHANGELOG)
 * [Upgrade Guide](https://www.facebook.com/trantoan.960)
 * [Ecosystem](https://www.facebook.com/trantoan.960)
 * [Contributing Guide](https://www.facebook.com/trantoan.960)
